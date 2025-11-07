@@ -12,7 +12,7 @@ const Navbar = () => {
       </ul>
 
       <div className="logo">
-        <img src='./public/images/logo.png' alt="Logo" />
+        <img src='./images/logo.png' alt="Logo" />
       </div>
 
       <ul className="nav-links right">
