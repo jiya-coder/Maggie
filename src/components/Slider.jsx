@@ -4,7 +4,7 @@ import { useInView } from 'react-intersection-observer';
 import './Slider.css';
 const slides = [
   {
-    image: '/public/images/maggie1.png',
+    image: '/images/maggie1.png',
     name: 'Maggi 2-Minute Noodles',
     desc: `The iconic Maggi that started it all.  
 Ready in just two minutes, it’s the ultimate snack for anytime hunger strikes.  
@@ -13,7 +13,7 @@ A quick fix that’s always a comfort.`,
     nutrition: { energy: 299, protein: 5.6, carbohydrate: 44.5, sugars: 1.5, fibre: 2.5, fat: 11, sodium: 820.6 }
   },
   {
-    image: '/public/images/maggie2.png',
+    image: '/images/maggie2.png',
     name: 'Maggi Special Masala',
     desc: `A richer, spicier twist for the flavor adventurer.  
 Packed with a secret blend of aromatic spices for a mouthwatering kick.  
@@ -22,7 +22,7 @@ Perfect for those who like life a little extra.`,
     nutrition: { energy: 320, protein: 6.2, carbohydrate: 48.1, sugars: 2.0, fibre: 3.0, fat: 12, sodium: 810.0 }
   },
   {
-    image: '/public/images/maggie3.png',
+    image: '/images/maggie3.png',
     name: 'Maggi Veggie Masala',
     desc: `A wholesome twist with the goodness of vegetables in every bite.  
 Bright, colorful bits of veggies blend perfectly with the signature Maggi masala.  
@@ -31,7 +31,7 @@ Ideal for a quick, hearty lunch or snack.`,
     nutrition: { energy: 280, protein: 5.0, carbohydrate: 42.0, sugars: 1.0, fibre: 2.2, fat: 10, sodium: 800.0 }
   },
   {
-    image: '/public/images/maggie4.png',
+    image: '/images/maggie4.png',
     name: 'Maggi Chicken Noodles',
     desc: `Tender noodles infused with delicious chicken flavor.  
 A rich, savory broth that warms you from the first spoonful.  
