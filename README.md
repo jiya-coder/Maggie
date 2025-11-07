@@ -23,6 +23,12 @@ Package Manager: npm/yarn
 
 🚀 <b>Installation</b>
 
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+
+📂 <b>Project Structure</b>
+
 src/                                                                                                                                                                                    
 ├── components/                                                                                                                                                                         
 │   ├── Hero.jsx          # Main hero section with animations                                                                                                                           
@@ -62,6 +68,10 @@ Interactive Features
 For support, email jiyajaiswal524@gmail.com or create an issue in the GitHub repository.
 
 Made with ❤️ and 🍜 by Jiya Jaiswal
+
+📦 <b>Deployment</b>
+
+This project includes a vercel.json configuration file for seamless deployment to Vercel. Simply connect your GitHub repository to Vercel and it will automatically detect and deploy the project.
 
 <div align="center">
 Enjoy your Maggi! 🎉
