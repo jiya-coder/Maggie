@@ -51,12 +51,12 @@ const Hero = () => {
       <img src="./images/tomato.png" alt="tomato" className="bg-tomato t3" />
       <img src="./images/tomato.png" alt="tomato" className="bg-tomato t4" />
 
-      <img src="./public/images/basil1.png" alt="basil1" className="bg-basil b1" />
-      <img src="./public/images/basil1.png" alt="basil2" className="bg-basil b2" />
+      <img src="/images/basil1.png" alt="basil1" className="bg-basil b1" />
+      <img src="/images/basil1.png" alt="basil2" className="bg-basil b2" />
 
       <div className="bowl-container">
         <motion.img
-          src="./public/images/bowl.png"
+          src="/images/bowl.png"
           alt="bowl"
           className="bowl-img"
           style={{ zIndex: 5, position: 'relative' }}

@@ -49,12 +49,6 @@ width: 700px;
 .bowl-img:hover {
   transform: scale(1.05); 
 }
-@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
-
-* {
-  padding: 0;
-  margin: 0;
-}
 
 .hero {
   background: radial-gradient(circle, #FFE34C 0%, #FFB900 100%);
@@ -213,4 +207,3 @@ top: 30%;
   .highlight-btn:hover {
     background: #ff1a1a;
   }
-  
